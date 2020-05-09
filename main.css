@@ -1,0 +1,40 @@
+.container {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ size: 100%;
+ 
+
+}
+
+h1 {
+    color: salmon;
+    size: 60%;
+}
+
+/* message */
+p {
+ padding: 15px;
+ font-family: cursive;
+}
+
+/* Gify image  */
+.giphy-embed {
+ padding: 20px;
+ margin-left: 15px;
+
+}
+
+/* submit buttom */
+#guess-btn {
+  background-color: green;
+  color: black;
+}
+
+
+.tommessage {
+    padding: 30px;
+    color: rgb(218, 122, 32);
+
+}
+
